@@ -1,5 +1,5 @@
 require './app'
-run App
+run Battle 
 
 
 # rackup -p 4567
